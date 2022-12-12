@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "price": 5000,
+      "createdAt": "2022-11-18T14:22:05.854Z",
+      "id": 4
+    },
+    {
+      "category": "Alimentação",
+      "description": "Alimentação do pet",
+      "type": "outcome",
+      "price": 200,
+      "createdAt": "2022-12-11T04:59:20.255Z",
+      "id": 5
+    }
+  ]
+}
